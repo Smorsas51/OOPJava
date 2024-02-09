@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ToDo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ToDo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ToDo.jar!/" />
+    </SOURCES>
+  </library>
+</component>
