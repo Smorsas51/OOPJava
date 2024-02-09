@@ -3,7 +3,6 @@ package assignment2;
 
 import se.his.it401g.todo.HomeTask;
 import se.his.it401g.todo.Task;
-import se.his.it401g.todo.TaskListener;
 
 import javax.swing.JFrame;
 import java.awt.*;
