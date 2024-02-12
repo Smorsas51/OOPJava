@@ -20,6 +20,5 @@ public class ToDo {
         frame.setBounds(100,100,400,100);
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
     }
 }
