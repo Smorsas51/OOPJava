@@ -12,18 +12,7 @@ import java.awt.*;
 public class ToDo {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
-        //JButton button = new JButton();
-
         Task task = new HomeTask();
-
-        /*button.setBounds(200,100,100,50);
-        button.addActionListener(e -> System.out.println("test"));
-
-        button.setFocusable(false);
-*/
-
-
-
 
 
         frame.add(task.getGuiComponent());
